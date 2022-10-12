@@ -1,4 +1,3 @@
-
 package HacktoberFest2022;
 public class ArrayReverse {
 	static void reverse(int a[], int n) 
