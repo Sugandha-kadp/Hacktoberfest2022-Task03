@@ -1,5 +1,5 @@
 package HacktoberFest2022;
-public class ArrayReverse {
+public class ArrayReverseNEW {
 	static void reverse(int a[], int n) 
 	{ 
 		int[] b = new int[n]; 
